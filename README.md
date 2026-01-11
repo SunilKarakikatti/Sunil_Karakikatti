@@ -25,26 +25,15 @@ Vivekananda Institute of Technology, Bengaluru
 ## 🛠️ Technical Skills
 
 ### 💻 Programming & Query Languages
-- Python  
-- SQL  
+- Python  - SQL  
 ### 🧰 Tools & Platforms
-- Excel  
-- Power BI  
-- Tableau  
-- Jupyter Notebook  
-- VS Code
-- Cursor
+- Excel  - Power BI  - Tableau  - Jupyter Notebook  - VS Code - Cursor
 ### 📚 Frameworks & Libraries
-- NumPy  
-- SciPy  
-- Pandas  
-- Matplotlib
-- sci-kit learn
+- NumPy  - SciPy  - Pandas  - Matplotlib - scikit-learn
 ### 🗄️ Database
 - MySQL  
 ### 🤝 Other Skills
-- Problem Solving  
-- Communication  
+- Problem Solving  - Communication  
 
 ---
 
