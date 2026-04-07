@@ -17,7 +17,6 @@ Motivated Electronics and Communication Engineering graduate with strong interes
 ## 🎓 Education
 **Bachelor of Engineering – Electronics & Communication Engineering**  
 Vivekananda Institute of Technology, Bengaluru  
-**CGPA:** 7.2 (untill 6th sem)
 **Duration:** 2022 – 2026  
 
 ---
@@ -26,14 +25,7 @@ Vivekananda Institute of Technology, Bengaluru
 
 ### 💻 Programming & Query Languages
 - Python  - SQL  
-### 🧰 Tools & Platforms
-- Excel  - Power BI  - Tableau  - Jupyter Notebook  - VS Code - Cursor
-### 📚 Frameworks & Libraries
-- NumPy  - SciPy  - Pandas  - Matplotlib - scikit-learn
-### 🗄️ Database
-- MySQL  
-### 🤝 Other Skills
-- Problem Solving  - Communication  
+
 
 ---
 
@@ -49,10 +41,7 @@ Built using **Power BI** and **DAX**, enabling aggregations, averages, and perce
 
 ---
 
-## 📜 Certifications
-- Introduction to Statistics – Coursera  
-- SQL – Kaggle  
-- Foundations: Data, Data, Everywhere – Coursera  
+
 
 ---
 
