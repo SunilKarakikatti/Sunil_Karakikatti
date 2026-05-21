@@ -35,9 +35,12 @@ Vivekananda Institute of Technology, Bengaluru
 A smart highway solution that uses **GPS geofencing**, **RFID**, and **AI-powered cameras** to automatically deduct toll charges as vehicles move.  
 This system eliminates toll booths, reduces traffic congestion, saves fuel, lowers emissions, and enables seamless cashless travel—supporting future smart mobility.
 
-### 🏥 Healthcare Analytics Dashboard
-A data-driven dashboard providing insights into **patient billing**, **cost analysis**, and **service utilization** across cities, states, and departments.  
-Built using **Power BI** and **DAX**, enabling aggregations, averages, and percentage-based analytics for informed healthcare decision-making.
+###    Healthcare Analytics Dashboard
+A data-driven dashboard providing insights into **patient billing**, **cost analysis**, and **service utilization** across cities, states, and departments. Built using **Power BI** and **DAX**, enabling aggregations, averages, and percentage-based analytics for informed healthcare decision-making.
+
+###    Zyvora Food Ordering  
+I have been working on a voice-based food ordering system that simplifies how we interact with delivery platforms. By combining a sleek UI with voice-recognition technology, Zyvora aims to make food ordering completely hands-free and intuitive.
+
 
 ---
 
